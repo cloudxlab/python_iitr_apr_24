@@ -1,0 +1,81 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+From: stephen.marquard@uct.ac.za
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+From: louis@media.berkeley.edu
+Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39770 - site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src/webapp/vm/sitesetup
+From rjlowe@iupui.edu Fri Jan  4 15:46:24 2008
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
+From zqian@umich.edu Fri Jan  4 15:03:18 2008
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39766 - site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool
+From rjlowe@iupui.edu Fri Jan  4 14:50:18 2008
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
+From cwen@iupui.edu Fri Jan  4 11:37:30 2008
+From: cwen@iupui.edu
+Subject: [sakai] svn commit: r39764 - in msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums: . ui
+From cwen@iupui.edu Fri Jan  4 11:35:08 2008
+From: cwen@iupui.edu
+Subject: [sakai] svn commit: r39763 - in msgcntr/trunk: messageforums-api/src/bundle/org/sakaiproject/api/app/messagecenter/bundle messageforums-app/src/java/org/sakaiproject/tool/messageforums
+From gsilver@umich.edu Fri Jan  4 11:12:37 2008
+From: gsilver@umich.edu
+Subject: [sakai] svn commit: r39762 - web/trunk/web-tool/tool/src/bundle
+From gsilver@umich.edu Fri Jan  4 11:11:52 2008
+From: gsilver@umich.edu
+Subject: [sakai] svn commit: r39761 - site/trunk/site-tool/tool/src/bundle
+From zqian@umich.edu Fri Jan  4 11:11:03 2008
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39760 - in site-manage/trunk/site-manage-tool/tool/src: java/org/sakaiproject/site/tool webapp/vm/sitesetup
+From gsilver@umich.edu Fri Jan  4 11:10:22 2008
+From: gsilver@umich.edu
+Subject: [sakai] svn commit: r39759 - mailarchive/trunk/mailarchive-tool/tool/src/bundle
+From wagnermr@iupui.edu Fri Jan  4 10:38:42 2008
+From: wagnermr@iupui.edu
+Subject: [sakai] svn commit: r39758 - in gradebook/trunk: app/business/src/java/org/sakaiproject/tool/gradebook/business/impl service/api/src/java/org/sakaiproject/service/gradebook/shared service/impl/src/java/org/sakaiproject/component/gradebook
+From zqian@umich.edu Fri Jan  4 10:17:43 2008
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39757 - in assignment/trunk: assignment-impl/impl/src/java/org/sakaiproject/assignment/impl assignment-tool/tool/src/webapp/vm/assignment
+From antranig@caret.cam.ac.uk Fri Jan  4 10:04:14 2008
+From: antranig@caret.cam.ac.uk
+Subject: [sakai] svn commit: r39756 - in component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component: impl impl/spring/support impl/spring/support/dynamic impl/support util
+From gopal.ramasammycook@gmail.com Fri Jan  4 09:05:31 2008
+From: gopal.ramasammycook@gmail.com
+Subject: [sakai] svn commit: r39755 - in sam/branches/SAK-12065: samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation samigo-services/src/java/org/sakaiproject/tool/assessment/facade samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/integrated samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading
+From david.horwitz@uct.ac.za Fri Jan  4 07:02:32 2008
+From: david.horwitz@uct.ac.za
+Subject: [sakai] svn commit: r39754 - in polls/branches/sakai_2-5-x: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
+From david.horwitz@uct.ac.za Fri Jan  4 06:08:27 2008
+From: david.horwitz@uct.ac.za
+Subject: [sakai] svn commit: r39753 - in polls/trunk: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
+From david.horwitz@uct.ac.za Fri Jan  4 04:49:08 2008
+From: david.horwitz@uct.ac.za
+Subject: [sakai] svn commit: r39752 - in podcasts/branches/sakai_2-5-x/podcasts-app/src/webapp: css podcasts
+From david.horwitz@uct.ac.za Fri Jan  4 04:33:44 2008
+From: david.horwitz@uct.ac.za
+Subject: [sakai] svn commit: r39751 - in podcasts/branches/sakai_2-5-x/podcasts-app/src/webapp: css images podcasts
+From stephen.marquard@uct.ac.za Fri Jan  4 04:07:34 2008
+From: stephen.marquard@uct.ac.za
+Subject: [sakai] svn commit: r39750 - event/branches/SAK-6216/event-util/util/src/java/org/sakaiproject/util
+From louis@media.berkeley.edu Thu Jan  3 19:51:21 2008
+From: louis@media.berkeley.edu
+Subject: [sakai] svn commit: r39749 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
+From louis@media.berkeley.edu Thu Jan  3 17:18:23 2008
+From: louis@media.berkeley.edu
+Subject: [sakai] svn commit: r39746 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
+From ray@media.berkeley.edu Thu Jan  3 17:07:00 2008
+From: ray@media.berkeley.edu
+Subject: [sakai] svn commit: r39745 - providers/trunk/cm/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider
+From cwen@iupui.edu Thu Jan  3 16:34:40 2008
+From: cwen@iupui.edu
+Subject: [sakai] svn commit: r39744 - oncourse/branches/oncourse_OPC_122007
+From cwen@iupui.edu Thu Jan  3 16:29:07 2008
+From: cwen@iupui.edu
+Subject: [sakai] svn commit: r39743 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+From cwen@iupui.edu Thu Jan  3 16:23:48 2008
+From: cwen@iupui.edu
+Subject: [sakai] svn commit: r39742 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
