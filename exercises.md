@@ -18,3 +18,15 @@
 --
 
     Check problem.pdf
+--
+    Code the Bubble Sort: https://yongdanielliang.github.io/animation/web/BubbleSortNew.html
+    Insertion Sort
+    Quick Sort - Version with O(n) space complexity.
+    Merge Sort
+
+--
+    Question: Implement Deletion in Binary Search Tree
+    Look at animation: https://www.cs.usfca.edu/~galles/visualization/BST.html
+    Look at implementaiton in Jul 13 Notebook
+    
+    
