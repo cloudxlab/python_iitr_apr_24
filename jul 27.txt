@@ -1,0 +1,38 @@
+1. virtualenv
+    - isolation of installed modules
+    - per project separate env
+
+virtualenv myvenv # python -m venv myvenv
+. myvenv/bin/activate
+
+deactivate
+
+
+2. pytest
+it picks files starting with test and then runs all function start with test and uses assert
+
+3. coverage run -m pytest
+coverage report
+
+# mylib.py
+
+def inc(x):
+    if x < 0:
+        return x - 1
+    if x == 0:
+        return 0
+    return x + 1
+
+# test_sample.py
+import mylib
+
+def test_answer():
+    assert mylib.inc(3) == 4
+
+def test_neg():
+    assert mylib.inc(-3) == -4
+
+def test_zero():
+    assert mylib.inc(0) == 0
+
+
