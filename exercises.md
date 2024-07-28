@@ -111,6 +111,7 @@ June 7th and 8th 2024
 		Mention time complexity.
 --
 June 14th and 15th 2024
+
 	Q1. Rewrite this code to make it using circular buffer
 		read a line
 		append a line
@@ -130,10 +131,12 @@ June 14th and 15th 2024
 			- QuickSort
 --
 June 22nd and 23rd 2024
+
 	Q1. Write code to solve equations
 	
 --
 July 6th and 7th 2024
+
 	Q1. [(0,"x"), (1, 12), (0, 34), (1,90), (1,89), (0,"s"), (1, "7")]
 		Move all zeros to the begining and all 1s to end without using another list in order of n
 		Input: [(0,"x"), (1, 12), (0, 34), (1,90), (1,89), (0,"s"), (1, "7")]
@@ -148,6 +151,7 @@ July 6th and 7th 2024
 		- without dictionary approach
 --
 July 13th and 14th 2024
+
 	Q1. Implement Binary Search Tree Delete (Insert and Find done in class)
 	
 --
@@ -164,6 +168,7 @@ July 20th and 21st 2024
 
 --
 July 27th and 28th 2024
+
 	Go through the below blog on sentiment Analysis
 	https://cloudxlab.com/blog/understanding-embeddings-and-matrices-with-the-help-of-sentiment-analysis-and-llms-hands-on/
 	
